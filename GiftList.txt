@@ -1,0 +1,4 @@
+ball : $5
+puppy : $1000
+makeup : $1000000
+shoes : $200

@@ -1,0 +1,5 @@
+robot 
+toy soldier 
+sled 
+racecar set 
+Total Cost: $70.96
